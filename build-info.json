@@ -2,10 +2,10 @@
   "name": "Build null with GeyserMC build 1014",
   "version": "null",
   "tags": [
-    "/geysermc-proxy:null-1014",
-    "/geysermc-proxy:null",
-    "/geysermc-proxy:1014",
-    "/geysermc-proxy:latest"
+    "kdomke/geysermc-proxy:null-1014",
+    "kdomke/geysermc-proxy:null",
+    "kdomke/geysermc-proxy:1014",
+    "kdomke/geysermc-proxy:latest"
   ],
   "geyser": {
     "version": "2.9.2",
