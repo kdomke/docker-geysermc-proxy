@@ -21,7 +21,7 @@ ENV GEYSER_VERSION=${GEYSER_VERSION}
 ENV GEYSER_BUILD=${GEYSER_BUILD}
 
 # Geyser Settings
-ENV ="null"
+#ENV ="null"
 
 
 # Install java 17 and other dependencies
